@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "latest",
+    "survey-jquery": "latest"
+  },
+  "keywords": [],
+  "name": "survey-tool",
+  "description": ""
+}
